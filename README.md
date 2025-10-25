@@ -1,15 +1,19 @@
-<h1 align="center">✨ Hey, I'm Sabari 👋</h1>
-<h3 align="center">🚀 3rd-Year B.Tech IT Student | Aspiring Full Stack Developer | Tech Enthusiast</h3>
+<!-- =============================== -->
+<!--       🌟 SABARI'S README 🌟     -->
+<!-- =============================== -->
+
+<h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">Sabari</span> 👋</h1>
+<h3 align="center">🚀 3rd-Year B.Tech IT Student | Future Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-## 💫 About Me
+## 💫 About Me  
 🎓 Passionate about building **real-world tech solutions**.  
-💻 Currently exploring **Full Stack Development (MERN + Django)** & **AI-powered web applications**.  
-🌱 Working on **SkillBridge** & **E-commerce projects** to sharpen my skills.  
-📌 Goal: Secure a role in a **Top Tech/Product Company by 2027** and grow a freelancing portfolio.  
-📸 **Content Creator & Video Editor**.  
-📚 Continuously improving **DSA, JavaScript, React** & problem-solving skills.  
+💻 Currently exploring **Full Stack Development (MERN + Django)** and **AI-powered web applications**.  
+🌱 Working on **SkillBridge** & **E-commerce projects** to level up my skills.  
+📌 Aiming to land in a **Top Tech/Product Company by 2027** while building a **freelancing portfolio**.  
+📸 I’m also a **Content Creator & Video Editor**.  
+📚 Constantly improving **DSA, JavaScript, React**, and **problem-solving** skills.  
 
 ---
 
@@ -17,10 +21,10 @@
 
 <p align="center">
   <a href="https://instagram.com/rohit_sabarii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sabari-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohitsabari045@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -29,54 +33,56 @@
 
 ---
 
-## 🔧 Tech Stack  
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" height="50" /> <br><br>
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,scss" height="50" /> <br><br>
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" height="50" />
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" height="50" /> <br><br>
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,scss" height="50" />
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="50" />
-</p>
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" height="50" />
+
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="50" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-Sabari&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G-Sabari&theme=react&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=G-Sabari&theme=react&hide_border=false" height="180" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&margin-w=10" />
+</div>
 
 ---
 
 ## ✍️ Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repos  
+## 🔝 Top Contributed Repositories  
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=G-Sabari&limit=5&theme=react&combine_all_yearly_contributions=true" />
@@ -84,10 +90,18 @@
 
 ---
 
+## 🌟 Profile Visitors  
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=G-Sabari&icon=7&color=1" />
+  <img src="https://visitcount.itsvg.in/api?id=G-Sabari&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </p>
 
 ---
+
+<h3 align="center">💡 "Code. Create. Conquer." 💪</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
