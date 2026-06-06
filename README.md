@@ -9,11 +9,11 @@
 
 ## 💫 About Me  
 🎓 Passionate about building **real-world tech solutions**.  
-💻 Currently exploring **Full Stack Development (MERN + Django)** and **AI-powered web applications**.  
+💻 Currently exploring **Full Stack Java Development** and **AI-powered web applications**.  
 🌱 Working on **SkillBridge** & **E-commerce projects** to level up my skills.  
 📌 Aiming to land in a **Top Tech/Product Company by 2027** while building a **freelancing portfolio**.  
 📸 I’m also a **Content Creator & Video Editor**.  
-📚 Constantly improving **DSA, JavaScript, React**, and **problem-solving** skills.  
+📚 Constantly improving **Java, DSA, JavaScript, React**, and **problem-solving** skills.  
 
 ---
 
