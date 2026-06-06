@@ -2,8 +2,8 @@
 <!--       🌟 SABARI'S README 🌟     -->
 <!-- =============================== -->
 
-<h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">Sabari</span> 👋</h1>
-<h3 align="center">🚀 3rd-Year B.Tech IT Student | Future Full Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">SABARI</span> 👋</h1>
+<h3 align="center">🚀 Final-Year B.Tech IT Student | Future Java Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
