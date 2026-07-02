@@ -1,13 +1,18 @@
-<h1 align="center">
-Hi 👋, I'm Sabari G
-</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Sabari G</h1>
 
 <h3 align="center">
 Software Engineer • Java Full Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-Building scalable web applications and continuously improving through projects, DSA, and system design.
+Building scalable web applications with Java and continuously improving through DSA, System Design, and real-world projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/G-Sabari">
+    <img src="https://komarev.com/ghpvc/?username=G-Sabari&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
@@ -15,41 +20,41 @@ Building scalable web applications and continuously improving through projects, 
 # 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Information Technology Student
-- 💻 Focused on Java Full Stack Development
-- 🌱 Currently learning Spring Boot, React, MySQL, and System Design
-- 📚 Solving Data Structures & Algorithms daily
-- 🚀 Building real-world full stack applications
-- 🎯 Goal: Software Engineer @ Product-Based Company (2027)
+- 💻 Passionate about Software Engineering & Java Full Stack Development
+- 🌱 Currently learning **Spring Boot, React, MySQL, Docker, and AWS**
+- 📚 Solving **Data Structures & Algorithms** every day
+- 🚀 Building production-level full-stack applications
+- 🎯 Goal: **Software Engineer at a Product-Based Company (2027)**
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
@@ -57,43 +62,42 @@ Building scalable web applications and continuously improving through projects, 
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Smart Inventory & Billing System
+## 📦 Smart Inventory & Billing System
 
-Enterprise inventory management application.
+Enterprise inventory management system with billing and analytics.
 
 ### Features
 
-- Product Management
-- Billing & Invoice Generation
+- Inventory Management
+- Invoice Generation
 - Sales Dashboard
 - Customer Management
 - Reports & Analytics
-- Role-Based Authentication
+- JWT Authentication
 
 **Tech Stack**
 
-Java • Spring Boot • React • MySQL • JWT
+`Java` • `Spring Boot` • `React` • `MySQL`
 
 ---
 
-## 📈 Mini CRM
+## 📊 Mini CRM
 
 Customer Relationship Management platform.
 
 ### Features
 
-- Lead Management
-- Customer Dashboard
+- Customer Management
+- Lead Tracking
 - Sales Pipeline
 - Task Management
-- Email Notifications
-- Analytics
+- Dashboard & Reports
 
 **Tech Stack**
 
-Java • Spring Boot • React • MySQL
+`Java` • `Spring Boot` • `React` • `MySQL`
 
 ---
 
@@ -105,98 +109,126 @@ AI-powered Placement Preparation Platform.
 
 - ATS Resume Analyzer
 - Resume Builder
-- Mock Interviews
-- Company-wise Preparation
+- AI Mock Interview
 - Coding Practice
+- Company Preparation Roadmaps
 - Placement Dashboard
 
 **Tech Stack**
 
-Java • Spring Boot • React • AI APIs
+`Java` • `Spring Boot` • `React`
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&rank_icon=github"/>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark"/>
+<img
+height="180em"
+src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark&hide_border=true"
+/>
 
-</p>
+<br><br>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+/>
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 GitHub Trophies
 
-- 💻 LeetCode
-- 🟢 HackerRank
-- 🔵 CodeChef
-- 🟡 Codeforces
+<div align="center">
 
-(Add your profile links)
+<img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🛢️ MySQL
+- 🔐 Spring Security & JWT
+- 🐳 Docker
+- ☁️ AWS
+- 📐 System Design
+- 🧩 Data Structures & Algorithms
+
+---
+
+# 🎯 2026–2027 Goals
+
+- ✅ Solve **500+ DSA Problems**
+- ✅ Build **3 Production-Level Full Stack Projects**
+- ✅ Learn **Docker & AWS**
+- ✅ Learn **Microservices**
+- ✅ Contribute to Open Source
+- ✅ Crack a Product-Based Company
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/G-Sabari">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
 </p>
 
 ---
 
-# 💡 Current Focus
+<div align="center">
 
-```text
-✓ Java
-✓ Spring Boot
-✓ React
-✓ MySQL
-✓ REST APIs
-✓ JWT Authentication
-✓ DSA
-✓ System Design
+### 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+⭐ *Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.*
+
+</div>
 ```
-
----
-
-# 📚 2026 Goals
-
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 3 Production-Level Projects
-- ✅ Learn Microservices
-- ✅ Learn Docker
-- ✅ Learn AWS
-- ✅ Crack Product-Based Company
-
----
-
-<p align="center">
-
-"Great software is built one commit at a time."
-
-</p>
