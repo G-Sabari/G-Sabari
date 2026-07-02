@@ -1,107 +1,202 @@
-<!-- =============================== -->
-<!--       🌟 SABARI'S README 🌟     -->
-<!-- =============================== -->
+<h1 align="center">
+Hi 👋, I'm Sabari G
+</h1>
 
-<h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">SABARI</span> 👋</h1>
-<h3 align="center">🚀 Final-Year B.Tech IT Student | Future Java Full Stack Developer | Tech Enthusiast</h3>
-
----
-
-## 💫 About Me  
-🎓 Passionate about building **real-world tech solutions**.  
-💻 Currently exploring **Full Stack Java Development** and **AI-powered web applications**.  
-🌱 Working on **SkillBridge** & **E-commerce projects** to level up my skills.  
-📌 Aiming to land in a **Top Tech/Product Company by 2027** while building a **freelancing portfolio**.  
-📸 I’m also a **Content Creator & Video Editor**.  
-📚 Constantly improving **Java, DSA, JavaScript, React**, and **problem-solving** skills.  
-
----
-
-## 🌐 Connect with Me  
+<h3 align="center">
+Software Engineer • Java Full Stack Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <a href="https://instagram.com/rohit_sabarii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sabari-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohitsabari045@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Building scalable web applications and continuously improving through projects, DSA, and system design.
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+# 👨‍💻 About Me
 
-<div align="center">
-
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" height="50" />
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,scss" height="50" />
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" height="50" />
-
-### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="50" />
-
-</div>
+- 🎓 Final Year B.Tech Information Technology Student
+- 💻 Focused on Java Full Stack Development
+- 🌱 Currently learning Spring Boot, React, MySQL, and System Design
+- 📚 Solving Data Structures & Algorithms daily
+- 🚀 Building real-world full stack applications
+- 🎯 Goal: Software Engineer @ Product-Based Company (2027)
 
 ---
 
-## 📊 GitHub Stats  
+# 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-Sabari&theme=react&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=G-Sabari&theme=react&hide_border=false" height="180" />
-</div>
+### Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql"/>
+</p>
 
----
+### Frontend
 
-## 🏆 Achievements  
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&margin-w=10" />
-</div>
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
 
-## ✍️ Dev Quote  
+### Database
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories  
+# 📌 Featured Projects
+
+## 🚀 Smart Inventory & Billing System
+
+Enterprise inventory management application.
+
+### Features
+
+- Product Management
+- Billing & Invoice Generation
+- Sales Dashboard
+- Customer Management
+- Reports & Analytics
+- Role-Based Authentication
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL • JWT
+
+---
+
+## 📈 Mini CRM
+
+Customer Relationship Management platform.
+
+### Features
+
+- Lead Management
+- Customer Dashboard
+- Sales Pipeline
+- Task Management
+- Email Notifications
+- Analytics
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL
+
+---
+
+## 🎯 SkillBridge
+
+AI-powered Placement Preparation Platform.
+
+### Features
+
+- ATS Resume Analyzer
+- Resume Builder
+- Mock Interviews
+- Company-wise Preparation
+- Coding Practice
+- Placement Dashboard
+
+**Tech Stack**
+
+Java • Spring Boot • React • AI APIs
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=G-Sabari&limit=5&theme=react&combine_all_yearly_contributions=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark"/>
+
 </p>
 
 ---
 
-## 🌟 Profile Visitors  
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=G-Sabari&label=Profile%20Views&color=0&icon=5&pretty=true" />
+
+<img src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark"/>
+
 </p>
 
 ---
 
-<h3 align="center">💡 "Code. Create. Conquer." 💪</h3>
+# 🏆 Coding Profiles
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+- 💻 LeetCode
+- 🟢 HackerRank
+- 🔵 CodeChef
+- 🟡 Codeforces
+
+(Add your profile links)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/G-Sabari">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 💡 Current Focus
+
+```text
+✓ Java
+✓ Spring Boot
+✓ React
+✓ MySQL
+✓ REST APIs
+✓ JWT Authentication
+✓ DSA
+✓ System Design
+```
+
+---
+
+# 📚 2026 Goals
+
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 3 Production-Level Projects
+- ✅ Learn Microservices
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Crack Product-Based Company
+
+---
+
+<p align="center">
+
+"Great software is built one commit at a time."
+
+</p>
