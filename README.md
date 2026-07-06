@@ -1,19 +1,23 @@
-````markdown
+
 <div align="center">
 
-# Hello Buddy 👋, I'm Sabari
+# 👋 Hello Buddy, I'm Sabari
 
-### Software Engineer • Java Full Stack Developer • Problem Solver
+### 💻 Software Engineer • Java Full Stack Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Always+Learning+Something+New🚀" />
+<p>
+Building scalable web applications and continuously improving through projects, DSA, and System Design.
+</p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Always+Learning+New+Technologies🚀" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=G-Sabari&style=for-the-badge&color=0ea5e9"/>
 
-<img src="https://img.shields.io/github/followers/G-Sabari?style=for-the-badge&color=2563eb&labelColor=1e293b"/>
+<img src="https://img.shields.io/github/followers/G-Sabari?style=for-the-badge&logo=github&color=2563eb"/>
 
-<img src="https://img.shields.io/github/stars/G-Sabari?style=for-the-badge&color=f59e0b&labelColor=1e293b"/>
+<img src="https://img.shields.io/github/stars/G-Sabari?style=for-the-badge&logo=github&color=f59e0b"/>
 
 </div>
 
@@ -22,7 +26,7 @@
 # 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Information Technology Student
-- 💻 Focused on Java Full Stack Development
+- 💻 Java Full Stack Developer
 - 🌱 Currently learning Spring Boot, React, MySQL & System Design
 - 📚 Solving Data Structures & Algorithms Daily
 - 🚀 Building Real-World Full Stack Applications
@@ -32,31 +36,31 @@
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql&theme=dark"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
 </p>
 
-### Backend
+### ⚙ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
 </p>
 
-### Database
+### 🗄 Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark"/>
@@ -68,7 +72,7 @@
 
 ## 🚀 Smart Inventory & Billing System
 
-Enterprise Inventory Management Application.
+Enterprise Inventory Management Application
 
 ### Features
 
@@ -87,7 +91,7 @@ Enterprise Inventory Management Application.
 
 ## 📈 Mini CRM
 
-Customer Relationship Management Platform.
+Customer Relationship Management Platform
 
 ### Features
 
@@ -106,20 +110,20 @@ Customer Relationship Management Platform.
 
 ## 🎯 SkillBridge
 
-AI-Powered Placement Preparation Platform.
+Placement Preparation Platform
 
 ### Features
 
-- ATS Resume Analyzer
 - Resume Builder
+- ATS Resume Analyzer
 - Mock Interviews
-- Company-wise Preparation
 - Coding Practice
+- Company-wise Preparation
 - Placement Dashboard
 
 **Tech Stack**
 
-`Java` • `Spring Boot` • `React` • `AI APIs`
+`Java` • `Spring Boot` • `React`
 
 ---
 
@@ -161,7 +165,9 @@ AI-Powered Placement Preparation Platform.
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action to display this animation.
 
 <p align="center">
 
@@ -173,12 +179,10 @@ AI-Powered Placement Preparation Platform.
 
 # 💻 Coding Profiles
 
-- 💛 LeetCode
-- 💚 HackerRank
-- 💙 CodeChef
-- ❤️ Codeforces
-
-(Add Your Profile Links)
+- 💛 LeetCode → https://leetcode.com/YOUR_USERNAME
+- 💚 HackerRank → https://www.hackerrank.com/YOUR_USERNAME
+- 💙 CodeChef → https://www.codechef.com/users/YOUR_USERNAME
+- ❤️ Codeforces → https://codeforces.com/profile/YOUR_USERNAME
 
 ---
 
@@ -186,7 +190,7 @@ AI-Powered Placement Preparation Platform.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -202,7 +206,7 @@ AI-Powered Placement Preparation Platform.
 
 ---
 
-# 💡 Current Focus
+# 🎯 Current Focus
 
 ```text
 ✓ Java
@@ -215,18 +219,19 @@ AI-Powered Placement Preparation Platform.
 ✓ System Design
 ✓ Docker
 ✓ AWS
-````
+```
 
 ---
 
 # 📚 2026 Goals
 
-* ✅ Solve 500+ DSA Problems
-* ✅ Build 3 Production-Level Projects
-* ✅ Learn Microservices
-* ✅ Learn Docker
-* ✅ Learn AWS
-* ✅ Crack Product-Based Company
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 3 Production-Level Projects
+- ✅ Master Spring Boot
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Learn Microservices
+- ✅ Crack a Product-Based Company
 
 ---
 
@@ -236,7 +241,7 @@ AI-Powered Placement Preparation Platform.
 
 > **"Great software is built one commit at a time."**
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my GitHub Profile!
 
 </div>
-```
+
