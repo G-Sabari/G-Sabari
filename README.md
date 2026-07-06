@@ -1,29 +1,36 @@
-<h1 align="center">
-Hello buddyy 👋, I'm Sabari G
-</h1>
+# <div align="center">Hi 👋, I'm Sabari G</div>
 
-<h3 align="center">
-Software Engineer • Java Full Stack Developer • Problem Solver
-</h3>
+<div align="center">
 
-<p align="center">
-Building scalable web applications and continuously improving through projects, DSA, and system design.
+### Java Full Stack Developer • Software Engineer • Problem Solver
+
+Building scalable web applications with Java, Spring Boot, React, and MySQL while continuously improving through DSA and real-world projects.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Applications;Always+Learning+Something+New" alt="Typing Animation" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=G-Sabari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/G-Sabari?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/G-Sabari?style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Information Technology Student
-- 💻 Focused on Java Full Stack Development
-- 🌱 Currently learning Spring Boot, React, MySQL, and System Design
-- 📚 Solving Data Structures & Algorithms daily
-- 🚀 Building real-world full stack applications
-- 🎯 Goal: Software Engineer @ Product-Based Company (2027)
+* 🎓 Final Year B.Tech Information Technology Student
+* 💼 Aspiring Software Engineer
+* 💻 Focused on Java Full Stack Development
+* 🌱 Currently learning Spring Boot, React, MySQL, JWT, Docker, and System Design
+* 📚 Solving Data Structures & Algorithms every day
+* 🚀 Passionate about building scalable applications
+* 🎯 Goal: Crack a Product-Based Company in 2027
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -57,103 +64,129 @@ Building scalable web applications and continuously improving through projects, 
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Smart Inventory & Billing System
+## 📦 Smart Inventory & Billing System
 
 Enterprise inventory management application.
 
-### Features
+**Features**
 
-- Product Management
-- Billing & Invoice Generation
-- Sales Dashboard
-- Customer Management
-- Reports & Analytics
-- Role-Based Authentication
+* Product Management
+* Invoice Generation
+* Sales Dashboard
+* Customer Management
+* Reports & Analytics
+* Role-Based Authentication
 
 **Tech Stack**
 
-Java • Spring Boot • React • MySQL • JWT
+`Java` • `Spring Boot` • `React` • `MySQL` • `JWT`
 
 ---
 
-## 📈 Mini CRM
+## 📊 Mini CRM
 
-Customer Relationship Management platform.
+Customer relationship management platform.
 
-### Features
+**Features**
 
-- Lead Management
-- Customer Dashboard
-- Sales Pipeline
-- Task Management
-- Email Notifications
-- Analytics
+* Lead Tracking
+* Customer Dashboard
+* Sales Pipeline
+* Task Management
+* Analytics
+* Email Notifications
 
 **Tech Stack**
 
-Java • Spring Boot • React • MySQL
+`Java` • `Spring Boot` • `React` • `MySQL`
 
 ---
 
 ## 🎯 SkillBridge
 
-AI-powered Placement Preparation Platform.
+Placement preparation platform.
 
-### Features
+**Features**
 
-- ATS Resume Analyzer
-- Resume Builder
-- Mock Interviews
-- Company-wise Preparation
-- Coding Practice
-- Placement Dashboard
+* Resume Builder
+* ATS Resume Analyzer
+* Mock Interviews
+* Coding Practice
+* Company-wise Preparation
+* Progress Dashboard
 
 **Tech Stack**
 
-Java • Spring Boot • React • AI APIs
+`Java` • `Spring Boot` • `React`
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark"/>
+<img height="170" src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 GitHub Trophies
 
-- 💻 LeetCode
-- 🟢 HackerRank
-- 🔵 CodeChef
-- 🟡 Codeforces
+<p align="center">
 
-(Add your profile links)
+<img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action to generate this automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/G-Sabari/G-Sabari/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+* 💛 LeetCode — https://leetcode.com/YOUR_USERNAME
+* 💚 HackerRank — https://www.hackerrank.com/YOUR_USERNAME
+* ❤️ CodeChef — https://www.codechef.com/users/YOUR_USERNAME
+* 💙 Codeforces — https://codeforces.com/profile/YOUR_USERNAME
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -169,7 +202,7 @@ Java • Spring Boot • React • AI APIs
 
 ---
 
-# 💡 Current Focus
+# 📚 Current Focus
 
 ```text
 ✓ Java
@@ -178,52 +211,31 @@ Java • Spring Boot • React • AI APIs
 ✓ MySQL
 ✓ REST APIs
 ✓ JWT Authentication
-✓ DSA
+✓ Data Structures & Algorithms
 ✓ System Design
+✓ Docker
+✓ Microservices (Learning)
 ```
 
 ---
 
-# 📚 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 3 Production-Level Projects
-- ✅ Learn Microservices
-- ✅ Learn Docker
-- ✅ Learn AWS
-- ✅ Crack Product-Based Company
-
----
-
-<p align="center">
-
-"Great software is built one commit at a time."
-
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+* ✅ Solve 500+ DSA Problems
+* ✅ Build 3 Production-Level Projects
+* ✅ Master Spring Boot
+* ✅ Learn Docker
+* ✅ Learn AWS
+* ✅ Learn Microservices
+* ✅ Strengthen System Design
+* ✅ Crack a Product-Based Company
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=github-dark&hide_border=true" />
-</p>
+### ⭐ "Great software is built one commit at a time."
 
----
+Thanks for visiting my profile!
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</div>
