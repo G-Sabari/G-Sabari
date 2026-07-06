@@ -1,18 +1,19 @@
-# <div align="center">Hi 👋, I'm Sabari G</div>
-
+````markdown
 <div align="center">
 
-### Java Full Stack Developer • Software Engineer • Problem Solver
+# Hello Buddy 👋, I'm Sabari
 
-Building scalable web applications with Java, Spring Boot, React, and MySQL while continuously improving through DSA and real-world projects.
+### Software Engineer • Java Full Stack Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Applications;Always+Learning+Something+New" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Always+Learning+Something+New🚀" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=G-Sabari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/G-Sabari?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/G-Sabari?style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=G-Sabari&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/G-Sabari?style=for-the-badge&color=2563eb&labelColor=1e293b"/>
+
+<img src="https://img.shields.io/github/stars/G-Sabari?style=for-the-badge&color=f59e0b&labelColor=1e293b"/>
 
 </div>
 
@@ -20,64 +21,63 @@ Building scalable web applications with Java, Spring Boot, React, and MySQL whil
 
 # 👨‍💻 About Me
 
-* 🎓 Final Year B.Tech Information Technology Student
-* 💼 Aspiring Software Engineer
-* 💻 Focused on Java Full Stack Development
-* 🌱 Currently learning Spring Boot, React, MySQL, JWT, Docker, and System Design
-* 📚 Solving Data Structures & Algorithms every day
-* 🚀 Passionate about building scalable applications
-* 🎯 Goal: Crack a Product-Based Company in 2027
+- 🎓 Final Year B.Tech Information Technology Student
+- 💻 Focused on Java Full Stack Development
+- 🌱 Currently learning Spring Boot, React, MySQL & System Design
+- 📚 Solving Data Structures & Algorithms Daily
+- 🚀 Building Real-World Full Stack Applications
+- 🎯 Goal: Software Engineer @ Product-Based Company (2027)
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql&theme=dark"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-## 📦 Smart Inventory & Billing System
+## 🚀 Smart Inventory & Billing System
 
-Enterprise inventory management application.
+Enterprise Inventory Management Application.
 
-**Features**
+### Features
 
-* Product Management
-* Invoice Generation
-* Sales Dashboard
-* Customer Management
-* Reports & Analytics
-* Role-Based Authentication
+- Product Management
+- Billing & Invoice Generation
+- Sales Dashboard
+- Customer Management
+- Reports & Analytics
+- Role-Based Authentication
 
 **Tech Stack**
 
@@ -85,18 +85,18 @@ Enterprise inventory management application.
 
 ---
 
-## 📊 Mini CRM
+## 📈 Mini CRM
 
-Customer relationship management platform.
+Customer Relationship Management Platform.
 
-**Features**
+### Features
 
-* Lead Tracking
-* Customer Dashboard
-* Sales Pipeline
-* Task Management
-* Analytics
-* Email Notifications
+- Lead Management
+- Customer Dashboard
+- Sales Pipeline
+- Task Management
+- Email Notifications
+- Analytics
 
 **Tech Stack**
 
@@ -106,46 +106,46 @@ Customer relationship management platform.
 
 ## 🎯 SkillBridge
 
-Placement preparation platform.
+AI-Powered Placement Preparation Platform.
 
-**Features**
+### Features
 
-* Resume Builder
-* ATS Resume Analyzer
-* Mock Interviews
-* Coding Practice
-* Company-wise Preparation
-* Progress Dashboard
+- ATS Resume Analyzer
+- Resume Builder
+- Mock Interviews
+- Company-wise Preparation
+- Coding Practice
+- Placement Dashboard
 
 **Tech Stack**
 
-`Java` • `Spring Boot` • `React`
+`Java` • `Spring Boot` • `React` • `AI APIs`
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Sabari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=G-Sabari&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=G-Sabari&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -155,15 +155,13 @@ Placement preparation platform.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=algolia&no-frame=true&column=6"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action to generate this automatically.
+# 🐍 Contribution Snake Animation
 
 <p align="center">
 
@@ -175,18 +173,20 @@ Placement preparation platform.
 
 # 💻 Coding Profiles
 
-* 💛 LeetCode — https://leetcode.com/YOUR_USERNAME
-* 💚 HackerRank — https://www.hackerrank.com/YOUR_USERNAME
-* ❤️ CodeChef — https://www.codechef.com/users/YOUR_USERNAME
-* 💙 Codeforces — https://codeforces.com/profile/YOUR_USERNAME
+- 💛 LeetCode
+- 💚 HackerRank
+- 💙 CodeChef
+- ❤️ Codeforces
+
+(Add Your Profile Links)
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -202,7 +202,7 @@ Placement preparation platform.
 
 ---
 
-# 📚 Current Focus
+# 💡 Current Focus
 
 ```text
 ✓ Java
@@ -211,31 +211,32 @@ Placement preparation platform.
 ✓ MySQL
 ✓ REST APIs
 ✓ JWT Authentication
-✓ Data Structures & Algorithms
+✓ DSA
 ✓ System Design
 ✓ Docker
-✓ Microservices (Learning)
-```
+✓ AWS
+````
 
 ---
 
-# 🎯 2026 Goals
+# 📚 2026 Goals
 
 * ✅ Solve 500+ DSA Problems
 * ✅ Build 3 Production-Level Projects
-* ✅ Master Spring Boot
+* ✅ Learn Microservices
 * ✅ Learn Docker
 * ✅ Learn AWS
-* ✅ Learn Microservices
-* ✅ Strengthen System Design
-* ✅ Crack a Product-Based Company
+* ✅ Crack Product-Based Company
 
 ---
 
 <div align="center">
 
-### ⭐ "Great software is built one commit at a time."
+## 💬 Developer Quote
 
-Thanks for visiting my profile!
+> **"Great software is built one commit at a time."**
+
+⭐ Thanks for visiting my profile.
 
 </div>
+```
