@@ -179,7 +179,7 @@ Placement Preparation Platform
 
 # 💻 Coding Profiles
 
-- 💛 LeetCode → https://leetcode.com/YOUR_USERNAME
+- 💛 LeetCode → https://leetcode.com/u/Sabari_developer/
 - 💚 HackerRank → https://www.hackerrank.com/YOUR_USERNAME
 - 💙 CodeChef → https://www.codechef.com/users/YOUR_USERNAME
 - ❤️ Codeforces → https://codeforces.com/profile/YOUR_USERNAME
