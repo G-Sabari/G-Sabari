@@ -241,10 +241,6 @@ Placement Preparation Platform
 
 > **"Great software is built one commit at a time."**
 
-⭐ Thanks for visiting my GitHub Profile!
+## ⭐ Thanks for visiting my GitHub Profile!
 
 </div>
-
-https://leetcode.com/u/Sabari_developer/
-
-merge this and add these into the github with perfect animation and highlight the leetcode
