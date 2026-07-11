@@ -1,15 +1,15 @@
-
+````markdown
 <div align="center">
 
 # 👋 Hello Buddy, I'm Sabari
 
-### 💻 Software Engineer • Java Full Stack Developer • Problem Solver
+### 💻 Java Full Stack Developer • Software Engineer • Problem Solver
 
 <p>
-Building scalable web applications and continuously improving through projects, DSA, and System Design.
+Passionate about building scalable full-stack applications using Java, Spring Boot, React, and MySQL while continuously improving through Data Structures & Algorithms and System Design.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;Always+Learning+New+Technologies🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+Problem+Solver;System+Design+Learner;Always+Building+Real+Projects🚀" />
 
 <br><br>
 
@@ -27,43 +27,67 @@ Building scalable web applications and continuously improving through projects, 
 
 - 🎓 Final Year B.Tech Information Technology Student
 - 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Boot, React, MySQL & System Design
+- 🌱 Learning Spring Boot, React, MySQL, Docker & AWS
 - 📚 Solving Data Structures & Algorithms Daily
-- 🚀 Building Real-World Full Stack Applications
+- 🚀 Building Production-Level Full Stack Projects
 - 🎯 Goal: Software Engineer @ Product-Based Company (2027)
+
+---
+
+# 🔥 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Sabari_developer/">
+
+<img src="https://img.shields.io/badge/Visit%20My-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Sabari_developer?theme=dark&font=Poppins&ext=contest"/>
+
+<br>
+
+![](https://img.shields.io/badge/DSA-Daily_Practice-orange?style=for-the-badge&logo=leetcode)
+![](https://img.shields.io/badge/Java-Problem_Solving-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Interview-Preparation-success?style=for-the-badge)
+
+</div>
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql&theme=dark"/>
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
 </p>
 
-### ⚙ Backend
+## ⚙ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
 </p>
 
-### 🗄 Database
+## 🗄 Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
-### 🛠 Tools
+## 🛠 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,docker&theme=dark"/>
 </p>
 
 ---
@@ -72,7 +96,7 @@ Building scalable web applications and continuously improving through projects, 
 
 ## 🚀 Smart Inventory & Billing System
 
-Enterprise Inventory Management Application
+Enterprise Inventory Management System
 
 ### Features
 
@@ -81,11 +105,12 @@ Enterprise Inventory Management Application
 - Sales Dashboard
 - Customer Management
 - Reports & Analytics
-- Role-Based Authentication
+- JWT Authentication
+- Role-Based Access
 
 **Tech Stack**
 
-`Java` • `Spring Boot` • `React` • `MySQL` • `JWT`
+`Java` • `Spring Boot` • `React` • `MySQL`
 
 ---
 
@@ -110,7 +135,7 @@ Customer Relationship Management Platform
 
 ## 🎯 SkillBridge
 
-Placement Preparation Platform
+AI Placement Preparation Platform
 
 ### Features
 
@@ -118,7 +143,7 @@ Placement Preparation Platform
 - ATS Resume Analyzer
 - Mock Interviews
 - Coding Practice
-- Company-wise Preparation
+- Company Preparation
 - Placement Dashboard
 
 **Tech Stack**
@@ -140,6 +165,32 @@ Placement Preparation Platform
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sabari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Sabari&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Sabari&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Sabari&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Sabari&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Sabari&theme=tokyonight"/>
 
 </p>
 
@@ -167,7 +218,7 @@ Placement Preparation Platform
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action to display this animation.
+> Enable the GitHub Action to generate this automatically.
 
 <p align="center">
 
@@ -179,46 +230,32 @@ Placement Preparation Platform
 
 # 💻 Coding Profiles
 
-- 💛 LeetCode → https://leetcode.com/YOUR_USERNAME
-- 💚 HackerRank → https://www.hackerrank.com/YOUR_USERNAME
-- 💙 CodeChef → https://www.codechef.com/users/YOUR_USERNAME
-- ❤️ Codeforces → https://codeforces.com/profile/YOUR_USERNAME
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 🟠 LeetCode | https://leetcode.com/u/Sabari_developer/ |
+| 🟢 HackerRank | YOUR_PROFILE |
+| 🔵 CodeChef | YOUR_PROFILE |
+| 🔴 Codeforces | YOUR_PROFILE |
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/G-Sabari">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Current Focus
+# ⚡ Current Focus
 
 ```text
 ✓ Java
 ✓ Spring Boot
 ✓ React
-✓ MySQL
 ✓ REST APIs
 ✓ JWT Authentication
-✓ DSA
-✓ System Design
+✓ MySQL
 ✓ Docker
 ✓ AWS
+✓ System Design
+✓ DSA
 ```
 
 ---
@@ -235,6 +272,30 @@ Placement Preparation Platform
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/G-Sabari">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/Sabari_developer/">
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
 ## 💬 Developer Quote
@@ -243,5 +304,7 @@ Placement Preparation Platform
 
 ⭐ Thanks for visiting my GitHub Profile!
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
+</div>
+````
