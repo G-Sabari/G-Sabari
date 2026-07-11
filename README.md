@@ -186,6 +186,183 @@ Placement Preparation Platform
 
 ---
 
+````markdown
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Sabari&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=G-Sabari&theme=algolia&no-frame=true&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable the GitHub Action to automatically generate this animation.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/G-Sabari/G-Sabari/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect & Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/G-Sabari">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sabari-profile">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:sabarideveloperofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://leetcode.com/u/Sabari_developer/">
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🌍 Platform | 🔗 Profile |
+|:-----------:|:-----------|
+| 🖤 **GitHub** | **https://github.com/G-Sabari** |
+| 🟠 **LeetCode ⭐** | **https://leetcode.com/u/Sabari_developer/** |
+| 💼 **LinkedIn** | **https://www.linkedin.com/in/sabari-profile** |
+| 📧 **Email** | **sabarideveloperofficial@gmail.com** |
+| 🟢 **HackerRank** | *Coming Soon* |
+| 🔵 **CodeChef** | *Coming Soon* |
+| 🔴 **Codeforces** | *Coming Soon* |
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+```text
+✓ Java
+✓ Spring Boot
+✓ React
+✓ REST APIs
+✓ JWT Authentication
+✓ MySQL
+✓ Docker
+✓ AWS
+✓ System Design
+✓ Data Structures & Algorithms
+✓ Building Production-Level Projects
+```
+
+---
+
+# 📚 2026 Goals
+
+- ✅ Solve **500+ LeetCode Problems**
+- ✅ Build **3+ Production-Level Full Stack Projects**
+- ✅ Master **Spring Boot**
+- ✅ Learn **Docker**
+- ✅ Learn **AWS**
+- ✅ Learn **Microservices**
+- ✅ Strengthen **System Design**
+- ✅ Crack a **Product-Based Company**
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(!success){
+    learn();
+    build();
+    practice();
+    repeat();
+}
+```
+
+---
+
+# ☕ Daily Routine
+
+```text
+☀️ Learn Java
+🧠 Solve DSA
+🚀 Build Projects
+📚 Learn System Design
+💻 Push to GitHub
+🔁 Repeat
+```
+
+---
+
+# 📈 Current Learning Roadmap
+
+```text
+Java               ████████████████ 100%
+
+Spring Boot        ████████████░░░░ 75%
+
+React              ███████████░░░░░ 70%
+
+MySQL              █████████████░░░ 80%
+
+Docker             ████░░░░░░░░░░░░ 25%
+
+AWS                ███░░░░░░░░░░░░░ 20%
+
+Microservices      ██░░░░░░░░░░░░░░ 10%
+
+System Design      ██████░░░░░░░░░░ 40%
+```
+
+---
+
+# 📌 Open To
+
+- 💼 Software Engineer Internships
+- 💻 Java Full Stack Developer Roles
+- 🚀 Open Source Contributions
+- 🤝 Collaboration on Interesting Projects
+
+---
+
+<div align="center">
+
+## 💬 Developer Quote
+
+> **"Great software is built one commit at a time."**
+
+⭐ **Thanks for visiting my GitHub Profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
+
+</div>
+````
+
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -242,9 +419,3 @@ Placement Preparation Platform
 > **"Great software is built one commit at a time."**
 
 ⭐ Thanks for visiting my GitHub Profile!
-
-</div>
-
-https://leetcode.com/u/Sabari_developer/
-
-merge this and add these into the github with perfect animation and highlight the leetcode
